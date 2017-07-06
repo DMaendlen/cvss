@@ -13,3 +13,4 @@ It will then collect the necessary information and return the desired values.
  * I'm not yet happy with the code, it looks ugly and needs refactoring.
  * If anybody has a better idea, how to collect the values on the cli, throw me
    a PR.
+ * Tests are completely missing. Not sure how to implement those.
